@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo[srv]
+pydantic
+pydantic-settings
+python-jose[cryptography]
+bcrypt==4.2.1
+python-multipart
+email-validator
+python-dotenv
